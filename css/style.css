@@ -1,0 +1,12 @@
+/* CSS To Format Promo Prices */
+.old_price {
+  text-decoration: line-through;
+  text-decoration-color: crimson;
+  font-size: small;
+}
+
+.new_price {
+  font-size: x-large;
+  font-weight: bold;
+  color: blue;
+}
